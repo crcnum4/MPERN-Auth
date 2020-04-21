@@ -23,10 +23,10 @@
 
 <p>This microservice will also provide the following capabilities to other microservices.</p>
 <p>
-* Authenticate Auth Tokens and return either:
-  * User Id
-  * Profile ID and/or profile data
-* Access additional public profile data if needed.
+- Authenticate Auth Tokens and return either:<br/>
+--- User Id<br/> 
+--- Profile ID and/or profile data<br/>
+- Access additional public profile data if needed.
 </p>
 
 ### Usage
