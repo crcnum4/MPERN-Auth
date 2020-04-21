@@ -2,7 +2,7 @@
 
 ## Purpose
 
-<p>This repo is part of a larger project related to a Blog application using a MPERN Microservice Architecture for the bigger pictuer please refer to the main [repo](https://github.com/crcnum4/MPERN-MS)</p>
+<p>This repo is part of a larger project related to a Blog application using a MPERN Microservice Architecture for the bigger picture please refer to the main [repo](https://github.com/crcnum4/MPERN-MS)</p>
 
 ## Service Details
 
