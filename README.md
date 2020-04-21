@@ -28,6 +28,10 @@
 --- Profile ID and/or profile data<br/>
 - Access additional public profile data if needed.
 </p>
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 ### Usage
 
